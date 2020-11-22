@@ -1,5 +1,9 @@
-<!-- пример --> 
+```bash
 roslaunch robot_gazebo test.launch 
+```
+запуск примера
 
-<!-- наша коробочка --> 
+```bash
 roslaunch robot_gazebo robot.launch 
+```
+запуск нашей коробки
